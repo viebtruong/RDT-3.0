@@ -1,4 +1,4 @@
- RDT 3.0 - Reliable Data Transfer Protocol
+## RDT 3.0 - Reliable Data Transfer Protocol
 
 Overview
 
