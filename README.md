@@ -2,7 +2,7 @@
 
 ## Overview
 
-RDT 3.0 is an implementation of the Reliable Data Transfer protocol, designed to ensure accurate and reliable transmission of data over a potentially unreliable network layer. This version incorporates features such as error detection, acknowledgments, and retransmissions to handle packet corruption, loss, and ordering.
+RDT 3.0 is an implementation of the Reliable Data Transfer protocol, meticulously crafted as part of the coursework for COMPSCI 453 (Computer Networks) at the University of Massachusetts Amherst. This project aims to ensure accurate and reliable transmission of data over a potentially unreliable network layer, incorporating sophisticated features such as error detection, acknowledgments, and retransmissions to address packet corruption, loss, and ordering.
 
 ## Features
 
@@ -20,5 +20,6 @@ RDT 3.0 is an implementation of the Reliable Data Transfer protocol, designed to
 
 ### Running the Protocol
 
-To start a simple file transfer using RDT 3.0, run the sender and receiver applications in separate terminal windows:
+To start a simple file transfer using RDT 3.0, run the sender and receiver applications in separate terminal windows.
+For more information, please refer to the PA.pdf
 
